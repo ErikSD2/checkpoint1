@@ -38,7 +38,7 @@ function microondas (opcao, tempo){
         }else if (tempo < tempoPadrao){
             console.log("Tempo Insuficiente");
         }else{
-            console.log("Prato pronto, bom apetite!!!")
+            console.log("Prato pronto, bom apetite!!!");
         }
 
     }else{
